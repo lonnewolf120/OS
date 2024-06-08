@@ -1,0 +1,13 @@
+.
+..
+3-1
+CSE-301
+CSE-302
+CSE-303
+CSE-304
+CSE-305
+CSE-306
+CSE-307
+Q1.sh
+new.sh
+out.txt
